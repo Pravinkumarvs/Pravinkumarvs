@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pravin Kumar
+# Hi 👋, I'm PravinKumar
 
 ### 🎓 Undergraduate Student in Electronics and Communication Engineering (ECE)
 
