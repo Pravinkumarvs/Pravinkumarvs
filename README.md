@@ -27,6 +27,23 @@ I'm an (ECE) undergraduate with a passion for technology, problem-solving, and c
 - Data Structures & Algorithms
 - Embedded Systems
 
+## 🛠️ Tech Stack
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Operating Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Currently Exploring
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A66C2?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-00A86B?style=for-the-badge)
+
 ---
 
 ## 💻 Technical Skills
