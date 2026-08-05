@@ -42,7 +42,6 @@ Passionate about building practical solutions through programming, Linux, Embedd
   <img src="https://github-readme-stats.vercel.app/api?username=Pravinkumarvs&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumarvs&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
-
 ---
 
 ## 📫 Connect with Me
